@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1426011353 source:c:\users\deli\desktop\algoritmos\practise\main.cpp
+	<iostream>
+	<fstream>
+	<typeinfo>
+	<stdio.h>
+	<stdlib.h>
+	<cstdlib>
+	<math.h>
+	<time.h>
+
